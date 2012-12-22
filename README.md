@@ -1,4 +1,4 @@
-# special-html
+# special-html [![Build Status](https://travis-ci.org/hughsk/special-html.png?branch=master)](https://travis-ci.org/hughsk/special-html)
 
 Converts special UTF-8 characters in a string to their HTML escape code equivalents.
 
