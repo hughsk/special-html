@@ -6,7 +6,10 @@
   "scripts": {
     "test": "node_modules/.bin/mocha -u tdd --reporter spec"
   },
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/special-html.git"
+  },
   "keywords": [
     "special",
     "characters",
@@ -19,5 +22,10 @@
   "license": "MIT",
   "devDependencies": {
     "mocha": "~1.7.4"
+  },
+  "readmeFilename": "README.md",
+  "gitHead": "509cb0ee5ce50a4935ba89e05e252015ea37b864",
+  "directories": {
+    "test": "test"
   }
 }
