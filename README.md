@@ -4,8 +4,16 @@ Converts special UTF-8 characters in a string to their HTML escape code equivale
 
 ## Installation
 
-``` javascript
+With [NPM](http://npmjs.org):
+
+``` bash
 $ npm install special-html
+```
+
+Or [component](/component/component):
+
+``` bash
+$ component install hughsk/special-html
 ```
 
 ## Usage
